@@ -1,6 +1,7 @@
 ## Hi there, my name is **Rodrigo Cândido de Oliveira** 👋
 
-I am an **Architect and Urban Planner** with a background in Graphic Design. My experience spans parametric design, virtual reality, and artificial intelligence, and I have recently developed skills in [urban data science](https://www.responsivecities.com/educacao) and Python programming. I am now transitioning into the tech industry, where I aim to apply my interdisciplinary knowledge to technology-driven projects.
+I am an **Architect and Urban Planner**with expertise in parametric design and virtual reality. Recently, I have expanded my skill set to include [urban data science](https://www.responsivecities.com/educacao) and Python programming. My goal is to apply this interdisciplinary knowledge to technology-driven projects.
+
 
 - 🌱 Currently taking the [CS50 class](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science).
 - 🌐 Exploring opportunities in technology that intersect with urban design and architecture.
